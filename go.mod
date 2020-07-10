@@ -1,4 +1,4 @@
-module k8s-crd-demo
+module github.com/lljstar/k8s-crd-demo
 
 go 1.14
 
